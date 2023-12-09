@@ -58,120 +58,79 @@
 <p align="left">
 <a href="https://twitter.com/yurieastwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/yurieastwood/yurieastwood/main/assets/twitter.svg" alt="yurieastwood" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/yurieastwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/yurieastwood/yurieastwood/main/assets/linkedin.svg" alt="yurieastwood" height="30" width="30" /></a>
-<a href="mailto:yuri.eastwood@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/yurieastwood/yurieastwood/main/assets/gmail.svg" alt="Email" height="30" width="30" /></a>
+<a href="mailto:yuri.eastwood@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/yurieastwood/yurieastwood/main/assets/email.svg" alt="Email" height="30" width="30" /></a>
 </p>
 
 <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
+  <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yurieastwood" alt="yurieastwood" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yurieastwood" alt="yurieastwood" /></a>
 </p>
 
-
-
-
-   <!--machine-learning-->
 ```mermaid
 graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
+    Solutions Architect-->Market Opportunity;
+    Solutions Architect-->Project Timeline;
+    Solutions Architect-->Business Goal;
+    Solutions Architect-->Budget;
+    Solutions Architect-->Market Opportunity;
+    Solutions Architect-->Target Dates;
+    Solutions Architect-->Resourcing;
+    Solutions Architect-->Technology Values & Requirements;
+    Solutions Architect-->Increased ROI;
    ```
-   
- 
-
 
 <div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
+  <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
+<p align="center">
+  <img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" width="30%">
 </p>
 
-
-
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-
-
-
-<!-- Belarus - My Home-->
   
  ```geojson
 {
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -46.333839135130404,
+          -23.960598772744945
+        ],
+        "type": "Point"
+      }
+    }
+  ]
 }
-
 ```
 
-
-
-
-
-
 <p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-
+  <img src="./src/credly0.png" alt="ibm" width="100%">
 </p>
 
-
-
 #### Thanks for visiting :heart:
-
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/yurieastwood/count.svg">  
+  <img src="https://profile-counter.glitch.me/yurieastwood/count.svg">  
 
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  counting of visitors to this page in this section started December 09, 2023
+  <a href="https://info.flagcounter.com/5gCK"><img src="https://s01.flagcounter.com/countxl/5gCK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+  ## Star History
+  [![Star History Chart](https://api.star-history.com/svg?repos=yurieastwood/yurieastwood&type=Date)](https://star-history.com/#yurieastwood/yurieastwood&Date)
 
-## Star History
+  ### Profile Views
+  counting of visitors to this page in this section started from December 08, 2023
+  ![](https://count.getloli.com/get/@yurieastwood.github.readme)
+  </br>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yurieastwood/yurieastwood&type=Date)](https://star-history.com/#yurieastwood/yurieastwood&Date)
-
-
-
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@yurieastwood.github.readme)
-</br>
-
-[MIT](LICENSE)
-
-
+  [MIT](LICENSE)
 </p>
 
 ---
