@@ -71,15 +71,15 @@
 
 ```mermaid
 graph TD;
-    Solutions Architect-->Market Opportunity;
-    Solutions Architect-->Project Timeline;
-    Solutions Architect-->Business Goal;
-    Solutions Architect-->Budget;
-    Solutions Architect-->Market Opportunity;
-    Solutions Architect-->Target Dates;
-    Solutions Architect-->Resourcing;
-    Solutions Architect-->Technology Values & Requirements;
-    Solutions Architect-->Increased ROI;
+    A[Solutions Architect]-->B[Market Opportunity];
+    A[Solutions Architect]-->C[Project Timeline];
+    A[Solutions Architect]-->D[Business Goal];
+    A[Solutions Architect]-->E[Budget];
+    A[Solutions Architect]-->F[Market Opportunity];
+    A[Solutions Architect]-->G[Target Dates];
+    A[Solutions Architect]-->H[Resourcing];
+    A[Solutions Architect]-->I[Technology Values & Requirements];
+    A[Solutions Architect]-->J[Increased ROI];
    ```
 
 <div align="center">
