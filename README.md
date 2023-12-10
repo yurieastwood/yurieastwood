@@ -25,7 +25,7 @@
 [![](https://github-profile-trophy.vercel.app/?username=yurieastwood&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🥇 Certification Badges:
-[![Certifications](https://github-readme-widgets.vercel.app/api?username=yurieastwood&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)
+[![Certifications](https://github-readme-widgets-eta.vercel.app/api?username=yurieastwood&maxResults=7&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
