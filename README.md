@@ -82,6 +82,14 @@ graph TD;
    ```
 
 <div align="center">
+  <summary>Trophy: Stackoverflow Profile Trophy</summary>
+</div>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/3212472/yuri-eastwood"><img src="https://stackoverflow.com/users/flair/3212472.png" width="208" height="58" alt="profile for Yuri Eastwood at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yuri Eastwood at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
+
+<div align="center">
   <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
@@ -385,7 +393,7 @@ graph TD;
   [![Star History Chart](https://api.star-history.com/svg?repos=yurieastwood/yurieastwood&type=Date)](https://star-history.com/#yurieastwood/yurieastwood&Date)
 
   ### Profile Views
-  counting of visitors to this page in this section started from December 08, 2023
+  counting of visitors to this page in this section started from December 09, 2023
   ![](https://count.getloli.com/get/@yurieastwood.github.readme)
   </br>
 
