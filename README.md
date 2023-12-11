@@ -27,6 +27,10 @@
 # 🥇 Certification Badges:
 [![Certifications](https://github-readme-widgets-eta.vercel.app/api?username=yurieastwood&maxResults=7&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)
 
+# 📖 Communities:
+## ✍️ StackOverflow
+[![Yuri Eastwood StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/3212472)](https://stackoverflow.com/users/3212472/yuri-eastwood)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
