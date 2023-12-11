@@ -28,7 +28,7 @@
 [![Certifications](https://github-readme-widgets-eta.vercel.app/api?username=yurieastwood&maxResults=7&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)
 
 # 📖 Communities:
-## ✍️ StackOverflow
+### StackOverflow
 [![Yuri Eastwood StackOverflow](https://stackoverflow.com/users/flair/3212472.png?theme=dark)](https://stackoverflow.com/users/3212472/yuri-eastwood)
 
 ### ✍️ Random Dev Quote
