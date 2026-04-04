@@ -3,3 +3,5 @@ disabled_events:
   - "comments"
 ignored_repos:
   - "yurieastwood/yurieastwood"
+messages:
+  push: "Pushed to {REPO}"
