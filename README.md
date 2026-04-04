@@ -88,7 +88,7 @@
 
 ## Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yurieastwood&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=yurieastwood&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
