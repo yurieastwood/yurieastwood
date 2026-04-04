@@ -1,0 +1,26 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          feed_list: "https://medium.com/feed/@yurieastwood"
+          max_post_count: 5
+          readme_path: ./README.md
+          template: "$newline- [$title]($url) — $date"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: update latest blog posts"
