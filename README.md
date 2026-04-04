@@ -74,6 +74,13 @@
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## Articles
 
 - [Guardrails for Agentic Development](https://www.linkedin.com/pulse/guardrails-agentic-development-yuri-eastwood-vntpc) — Mar 2026
