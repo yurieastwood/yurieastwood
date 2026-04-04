@@ -74,18 +74,6 @@
 
 ---
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 📝 Committed to main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/commit/6183412ef30fa491b303eec537b510712bff9b0a)
-2. 📝 Committed to main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/commit/2a31d43ce27cc0f8ae7c7668d1d9c8655be60119)
-3. 📝 Committed to main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/commit/ad16f1bc5e1816c06b1aff4b3122926295bb6145)
-4. 🎉 Created a new branch main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/tree/main)
-5. 📝 Committed to feat/openapi-coverage-check in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/commit/0370780d62843c2e300fdf12648ed0ea8c09eb18)
-<!--END_SECTION:activity-->
-
----
-
 ## Articles
 
 - [Guardrails for Agentic Development](https://www.linkedin.com/pulse/guardrails-agentic-development-yuri-eastwood-vntpc) — Mar 2026
@@ -96,6 +84,12 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yurieastwood&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
