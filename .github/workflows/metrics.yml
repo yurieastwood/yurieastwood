@@ -38,11 +38,6 @@ jobs:
           filename: github-metrics-community.svg
           output_action: none
           base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_visibility: public
           plugin_notable: yes
           plugin_notable_repositories: yes
           plugin_notable_from: all
