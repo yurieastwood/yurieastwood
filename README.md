@@ -7,23 +7,23 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/telescope-16.svg" width="16" height="16" alt="telescope"></td>
+    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/telescope-24.svg" width="24" height="24" alt="telescope"></td>
     <td><strong>Currently working on</strong> — Guardrails and patterns for agentic development in enterprise software delivery</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/book-16.svg" width="16" height="16" alt="book"></td>
+    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/book-24.svg" width="24" height="24" alt="book"></td>
     <td><strong>Currently learning</strong> — AI-assisted software engineering workflows and their impact on delivery practices</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/people-16.svg" width="16" height="16" alt="people"></td>
+    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/people-24.svg" width="24" height="24" alt="people"></td>
     <td><strong>Looking to collaborate on</strong> — Open-source tooling for software delivery, developer experience, and agentic development frameworks</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/comment-discussion-16.svg" width="16" height="16" alt="discussion"></td>
+    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/comment-discussion-24.svg" width="24" height="24" alt="discussion"></td>
     <td><strong>Ask me about</strong> — Software architecture, .NET, Azure, delivery practices, SAFe, or how to bridge the gap between architecture and hands-on engineering</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-16.svg" width="16" height="16" alt="mail"></td>
+    <td><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg" width="24" height="24" alt="mail"></td>
     <td><strong>How to reach me</strong> — Connect with me on <a href="https://linkedin.com/in/yurieastwood">LinkedIn</a></td>
   </tr>
 </table>
