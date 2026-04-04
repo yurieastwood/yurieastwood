@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: TheDanniCraft/activity-log@v1
         with:
+          GITHUB_USERNAME: "yurieastwood"
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          COMMIT_MSG: "chore: update recent GitHub activity"
-          MAX_LINES: 5
+          EVENT_LIMIT: 5
+          COMMIT_MESSAGE: "chore: update recent GitHub activity"
