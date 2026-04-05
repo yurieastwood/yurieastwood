@@ -64,11 +64,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/commit/81e14ba1a3f146c3c467a3ade739f3b69a8a7aba)
-2. 📝 Committed to main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/commit/dab6e3ecbeebf5d6c76256c157555978080dbd03)
-3. 📝 Committed to main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/commit/3860ae7d2a75f5247ca346cfdca917c1c5247d52)
-4. 📝 Committed to main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/commit/c8e01add234473adf60550da2fb91967aed289ce)
-5. 📝 Committed to main in [yurieastwood/yurieastwood](https://github.com/yurieastwood/yurieastwood/commit/6183412ef30fa491b303eec537b510712bff9b0a)
+1. 🗣 Commented on a review of PR #85 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/85#pullrequestreviewcomment-3036378003)
+2. 🔎 Created PR #85 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/85#pullrequestreview-4059083130)
+3. 🗣 Commented on a review of PR #85 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/85#pullrequestreviewcomment-3036377997)
+4. 🔎 Created PR #85 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/85#pullrequestreview-4059083126)
+5. 🗣 Commented on a review of PR #85 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/85#pullrequestreviewcomment-3036377990)
 <!--END_SECTION:activity-->
 
 ---
