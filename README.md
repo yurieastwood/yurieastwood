@@ -64,11 +64,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/commit/e5b7c30f7e7e2cdc06e89a66fb7ab8c34cc13a59)
-2. 🔀 Merged PR #88 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/88)
-3. 📥 Opened PR #88 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/88)
-4. 🎉 Created a new branch fix/adr-status-line-cleanup in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/tree/fix/adr-status-line-cleanup)
-5. 🔀 Merged PR #87 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/87)
+1. 📝 Committed to main in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/commit/2af2db94d33f5e8fd3966f54d4d55284c0498d30)
+2. 🔀 Merged PR #89 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/89)
+3. 📝 Committed to feat/frontend-task-management-completion in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/commit/0c87a3cbe296f53afd431b41ce854551fb8693db)
+4. 🗣 Commented on a review of PR #89 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/89#pullrequestreviewcomment-3045429274)
+5. 🔎 Created PR #89 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/89#pullrequestreview-4068568237)
 <!--END_SECTION:activity-->
 
 ---
