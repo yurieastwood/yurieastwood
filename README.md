@@ -64,11 +64,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/95fa243a83a8ab51388be1ebb4f5c2e868c880d5)
-2. 🎉 Created a new branch main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/tree/main)
-3. 🎉 Created a new branch main in a private repository
-4. 🔀 Merged PR #90 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/90)
-5. 🗣 Commented on a review of PR #90 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/90#pullrequestreviewcomment-3067487643)
+1. 🎉 Created a new branch preview in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/tree/preview)
+2. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/95fa243a83a8ab51388be1ebb4f5c2e868c880d5)
+3. 🎉 Created a new branch main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/tree/main)
+4. 🎉 Created a new branch main in a private repository
+5. 🔀 Merged PR #90 in [yurieastwood/em2devs-apps-todo](https://github.com/yurieastwood/em2devs-apps-todo/pull/90)
 <!--END_SECTION:activity-->
 
 ---
