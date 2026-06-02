@@ -67,8 +67,6 @@
 1. ⭐ Starred [nektos/act](https://github.com/nektos/act)
 2. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/3ddc12300146ca7aba715e1540fe18ef987ae4a6)
 3. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/847d9e9da3b7de7e98c1dbd2e755cbed6277d233)
-4. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/ba9a319c95a0602311de0369593776acbb711a02)
-5. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/b0c7821fbc80745138f9b069a579fe2c85603d12)
 <!--END_SECTION:activity-->
 
 ---
