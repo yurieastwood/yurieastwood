@@ -66,9 +66,6 @@
 <!--START_SECTION:activity-->
 1. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/b88bbe100bdf48eb134ab6ee53e010ea61effd74)
 2. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/3d4cf64b4bec561c4f8567d4b9d51a077968bdb4)
-3. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/105b8e124b6e39808f3f582f53db62ac942c1038)
-4. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/7bb87cf277da86f5bd00d501041c5574938ec530)
-5. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/cdda39a7aed44201987b63c0b351a01a247139e3)
 <!--END_SECTION:activity-->
 
 ---
