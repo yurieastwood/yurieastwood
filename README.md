@@ -65,7 +65,6 @@
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/b88bbe100bdf48eb134ab6ee53e010ea61effd74)
-2. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/3d4cf64b4bec561c4f8567d4b9d51a077968bdb4)
 <!--END_SECTION:activity-->
 
 ---
