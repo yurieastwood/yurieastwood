@@ -64,7 +64,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [yurieastwood/em2devs-apps-group-apartment-hunt](https://github.com/yurieastwood/em2devs-apps-group-apartment-hunt/commit/b88bbe100bdf48eb134ab6ee53e010ea61effd74)
+1. ⭐ Starred [floci-io/floci](https://github.com/floci-io/floci)
 <!--END_SECTION:activity-->
 
 ---
