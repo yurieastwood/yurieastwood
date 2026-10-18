@@ -64,7 +64,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [floci-io/floci](https://github.com/floci-io/floci)
+1. ⭐ Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+2. ⭐ Starred [google-research/harness2](https://github.com/google-research/harness2)
+3. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
 <!--END_SECTION:activity-->
 
 ---
