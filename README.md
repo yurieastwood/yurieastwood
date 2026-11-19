@@ -66,7 +66,6 @@
 <!--START_SECTION:activity-->
 1. ⭐ Starred [bdfinst/agentic-dev-team](https://github.com/bdfinst/agentic-dev-team)
 2. ⭐ Starred [unclebob/ub-mode](https://github.com/unclebob/ub-mode)
-3. 📝 Committed to main in [yurieastwood/yurieastwood.github.io](https://github.com/yurieastwood/yurieastwood.github.io/commit/17586df49ac361a1171c5060f476118edaa1f688)
 <!--END_SECTION:activity-->
 
 ---
